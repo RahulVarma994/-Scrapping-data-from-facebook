@@ -6,7 +6,7 @@ library(RCurl)
 
 # Connecting to my facebook api
 
-my_data = fbOAuth(app_id="815979781916818",app_secret="bfb03db1b9a748cf64e698b0e8336d12")
+my_data = fbOAuth(app_id="8hghdht546y5grf4145355hfhh6ger818",app_secret="ezsgrghyrgehyet5ydfcf64e6t565ertg4y54d1ht5eat2")
 
 # You can save this Auth for future use
 
